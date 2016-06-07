@@ -1,6 +1,6 @@
 # 모두의 라즈베리 파이 with 파이썬
 
-<img src="cover.jpg" style="max-width: 400px" />
+<img src="cover.jpg" width="400px" height="auto" style="max-width: 400px" />
 
 ## 누구나 재미있게 라즈베리 파이와 파이썬을 배울 수 있다!
 
